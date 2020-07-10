@@ -17,4 +17,4 @@ redirect_from:
 
 ## 招生信息
 - 每年招收两名硕士研究生，欢迎邮件交流。
-- 希望你 ![](https://img.shields.io/badge/爱国爱党-blue) ![](https://img.shields.io/badge/积极乐观-blue) ![](https://img.shields.io/badge/为人诚实-blue) ![](https://img.shields.io/badge/做事踏实-blue)。
+- 希望你 ![](https://img.shields.io/badge/积极乐观-blue) ![](https://img.shields.io/badge/为人诚实-blue) ![](https://img.shields.io/badge/做事踏实-blue)
